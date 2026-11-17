@@ -35,7 +35,7 @@ function Navbar() {
                   <circle cx="15" cy="20" r="10" stroke="#0682ff"/>
                   <circle cx="15" cy="20" r="6" stroke="#0682ff" strokeWidth="3"/>
               </svg>  
-              <span className="text-2xl font-bold text-primary-600 mt-1.5">RoyalCity</span>
+              <span className="text-2xl font-bold text-primary-600 mt-1.5">LandLayer</span>
             </Link>
           </div>
 

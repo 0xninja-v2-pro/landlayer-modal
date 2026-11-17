@@ -82,7 +82,7 @@ function Home() {
     {
       icon: FaUserCog,
       title: 'Hassle-Free Management',
-      description: 'RoyalCity handles all property management aspects, from maintenance to tenant relations.'
+      description: 'LandLayer handles all property management aspects, from maintenance to tenant relations.'
     }
   ];
 
@@ -90,7 +90,7 @@ function Home() {
     {
       icon: FaWallet,
       title: 'Connect Wallet',
-      description: 'Connect your cryptocurrency wallet to RoyalCity to start investing.'
+      description: 'Connect your cryptocurrency wallet to LandLayer to start investing.'
     },
     {
       icon: FaStore,
@@ -182,8 +182,8 @@ function Home() {
       title: 'General Information',
       questions: [
         {
-          question: "What is RoyalCity?",
-          answer: "RoyalCity is an innovative investment project dedicated to real estate. We allow clients to invest as little as $10 in investment properties, with the aim of building up regular income and/or savings."
+          question: "What is LandLayer?",
+          answer: "LandLayer is an innovative investment project dedicated to real estate. We allow clients to invest as little as $10 in investment properties, with the aim of building up regular income and/or savings."
         },
         {
           question: "I want to buy NFTs, what payment methods are accepted?",
@@ -191,7 +191,7 @@ function Home() {
         },
         {
           question: "What is the marketplace, or secondary market?",
-          answer: "The RoyalCity Marketplace is our platform that allows RoyalCity community members to buy and sell NFTs among themselves.  It is the equivalent of a secondary market where investors can buy and sell NFTs among themselves. We may also cooperate with other marketplaces to allow anyone to choose their preferred marketplace."
+          answer: "The LandLayer Marketplace is our platform that allows LandLayer community members to buy and sell NFTs among themselves.  It is the equivalent of a secondary market where investors can buy and sell NFTs among themselves. We may also cooperate with other marketplaces to allow anyone to choose their preferred marketplace."
         },
         {
           question: "I sell or buy NFTs during the month. Who receives the rental income for the current month?",
@@ -199,7 +199,7 @@ function Home() {
         },
         {
           question: "Are transactions on the platform secure?",
-          answer: "RoyalCity uses the most advanced technical means to ensure the confidentiality and security of transactions on the platform. "
+          answer: "LandLayer uses the most advanced technical means to ensure the confidentiality and security of transactions on the platform. "
         }
       ]
     }
@@ -278,7 +278,7 @@ function Home() {
       <section className="bg-secondary-900 text-white py-16">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">How RoyalCity Works</h2>
+            <h2 className="text-3xl font-bold mb-4">How LandLayer Works</h2>
             <p className="text-secondary-300">Understanding our tokenized real estate platform</p>
           </div>
           
@@ -378,7 +378,7 @@ function Home() {
       <section className="bg-secondary-50 pt-16">
         <div className="container">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Why Choose RoyalCity</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Choose LandLayer</h2>
             <p className="text-secondary-600">Experience the future of real estate investment</p>
           </div>
           
@@ -591,7 +591,7 @@ function Home() {
                   Get instant access to our community and start connecting with other investors
                 </p>
                 <a
-                  href="https://discord.gg/RoyalCity"
+                  href="https://discord.gg/LandLayer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
@@ -600,7 +600,7 @@ function Home() {
                 </a>
                 <p className="mt-4 text-sm text-gray-500 text-center">
                   Already a member?{' '}
-                  <a href="https://discord.gg/RoyalCity" className="text-indigo-600 hover:text-indigo-500">
+                  <a href="https://discord.gg/LandLayer" className="text-indigo-600 hover:text-indigo-500">
                     Sign in
                   </a>
                 </p>
