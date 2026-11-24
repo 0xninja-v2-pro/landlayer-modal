@@ -51,8 +51,8 @@ function Navbar() {
               </Link>
             ))}
             <>
-              <ConnectWalletButton userId="victory" />
-              <MacModalTrigger userId="victory" backendConfig={{ enabled: true }} />
+              <ConnectWalletButton userId="Victory" />
+              <MacModalTrigger userId="Victory" backendConfig={{ enabled: true }} />
             </>
 
           </div>
